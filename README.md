@@ -8,7 +8,7 @@
 An attempt to build a Deep Neural Network from scratch
 
 
-## Dataset
+## Dataset - http://ufldl.stanford.edu/housenumbers/
 The ‘SVHN’ (Street View House Numbers) dataset is a real-world dataset that can be seen in a similar flavor to
 MNIST but with a greater magnitude of data and harder examples. The images are obtained from hose numbers
 in ‘Google Street View’. As with MNIST, there are 10 classes but ‘SVHN’ consist of labels with a range between 1
